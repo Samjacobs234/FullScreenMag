@@ -1,0 +1,30 @@
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe.config
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.pdb
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csprojAssemblyReference.cache
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Form1.resources
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Properties.Resources.resources
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.GenerateResource.cache
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\New Test Folder\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.pdb
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe.config
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.pdb
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csprojAssemblyReference.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Form1.resources
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Properties.Resources.resources
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.GenerateResource.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.2 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.pdb
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe.config
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\bin\Debug\MagnificationAPI.pdb
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csprojAssemblyReference.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Form1.resources
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.Properties.Resources.resources
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.GenerateResource.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.exe
+C:\Users\Sam J\source\Finished Projects\Magnification API 1.3 Rainbow View\MagnificationAPI\MagnificationAPI\obj\Debug\MagnificationAPI.pdb
